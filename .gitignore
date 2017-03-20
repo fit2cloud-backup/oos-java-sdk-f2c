@@ -1,0 +1,12 @@
+target
+.project
+.settings
+.classpath
+.idea
+*.iml
+*~
+*.log
+*.out
+*.dump
+*.DS_Store
+*.pmd
